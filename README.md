@@ -11,13 +11,13 @@ Clicking on a marker or a list-item pops up an info window with details about th
 
 ## Table of Contents
 
-1.  [Getting Started](#Getting_Started)
-2.  [Prerequisites](#Prerequisites)
-3.  [Installing](#Installing)
-4.  [Dependencies](#Dependencies)
-5.  [API](#API)
-6.  [Credits](#Credits)
-7.  [Licence](#Licence)
+1.  [Getting Started](#getting_Started)
+2.  [Prerequisites](#prerequisites)
+3.  [Installing](#installing)
+4.  [Dependencies](#dependencies)
+5.  [API](#api)
+6.  [Credits](#credits)
+7.  [Licence](#licence)
 
 ## Getting Started
 
