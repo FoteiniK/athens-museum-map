@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "escape-string-regexp": "^1.0.5",
+    "gh-pages": "^1.2.0",
     "prop-types": "^15.6.2",
     "react": "^16.4.2",
     "react-bootstrap": "^0.32.1",
