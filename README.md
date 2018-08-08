@@ -13,11 +13,12 @@ Clicking on a marker or a list-item pops up an info window with details about th
 
 1.  [Getting Started](#getting_Started)
 2.  [Prerequisites](#prerequisites)
-3.  [Installing](#installing)
-4.  [Dependencies](#dependencies)
-5.  [API](#api)
-6.  [Credits](#credits)
-7.  [Licence](#licence)
+3.  [Demo](#demo)
+4.  [Installing](#installing)
+5.  [Dependencies](#dependencies)
+6.  [API](#api)
+7.  [Credits](#credits)
+8.  [Licence](#licence)
 
 ## Getting Started
 
@@ -27,6 +28,10 @@ Clone the repository or download the zip-file of the master branch.
 
 _npm_ :
 If you don't have npm installed, navigate to npm's [website](https://www.npmjs.com/get-npm) to download and install the software.
+
+## Demo
+
+To see a live version of the app,click [here](https://foteinik.github.io/athens-museum-map/)
 
 ### Installing
 
